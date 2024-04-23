@@ -2,12 +2,13 @@
 
 ## Must-Haves
 
-> these are necessary for basic usability
+> Complete flight information.
 
 ## Should-Haves
 
-> these will complete the user experience, but are not necessary
+> Possibility to focus on a single flight.
 
 ## Could-Haves
 
-> would be really cool ... if there's time
+> While focusing on a single flight getting more information about the flight,
+> destination etc...
